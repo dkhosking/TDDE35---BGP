@@ -1,0 +1,11 @@
+{
+  "year": 2023,
+  "url": "https://archive.routeviews.org/bgpdata/2023.01/RIBS/rib.20230102.0000.bz2",
+  "ipv6_prefix_count": 0,
+  "ipv6_origin_as_count": 0,
+  "ipv6_total_paths": 0,
+  "ipv6_he_paths": 0,
+  "ipv6_he_fraction": 0,
+  "ipv4_prefix_count": 890521,
+  "ipv4_origin_as_count": 0
+}
